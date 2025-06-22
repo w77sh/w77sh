@@ -89,14 +89,14 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/w77sh.png" alt="Your Image Badge" />
 </div>
 
 ###
 ###
-
+-->
 <div align="center">
   <a href="https://open.spotify.com/user/02mmixud7bx0dztuvkmjwuvfv">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=02mmixud7bx0dztuvkmjwuvfv&count=5&unique=false" alt="Spotify recently played"  />
